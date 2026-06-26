@@ -4,19 +4,18 @@
   "featured": [
     "arkenSTONE",
     "kronos",
-    "GSA-Dashboard",
     "parceltongueBOT"
   ],
   "hidden": [
+    "Frame01",
+    "vanityGen",
+    "bulkSCANNER",
+    "ETRrssBOT",
+    "devstore",
+    "payloadPY",
     "cert"
   ],
   "overrides": {
-    "kronos": {
-      "title": "kronos",
-      "description": "",
-      "demo": "https://arcofchanu.github.io/kronos/",
-      "image": ""
-    },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
