@@ -17,11 +17,11 @@
     "cert"
   ],
   "overrides": {
-    "GSA-Dashboard": {
-      "title": "GSA-Dashboard",
+    "arkenSTONE": {
+      "title": "arkenSTONE",
       "description": "",
-      "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
-      "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
+      "demo": "https://arcofchanu.github.io/arkenSTONE/",
+      "image": "https://i.postimg.cc/cJ17nxkh/Copy-of-ascend-(1).png"
     },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
