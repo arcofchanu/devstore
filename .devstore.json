@@ -4,13 +4,10 @@
   "featured": [
     "arkenSTONE",
     "kronos",
-    "GSA-Extractor"
+    "GSA-Extractor",
+    "GSA-Dashboard"
   ],
   "hidden": [
-    "parceltongueBOT",
-    "ETRrssBOT",
-    "devstore",
-    "payloadPY",
     "cert"
   ],
   "overrides": {}
