@@ -17,6 +17,12 @@
     "cert"
   ],
   "overrides": {
+    "GSA-Dashboard": {
+      "title": "GSA-Dashboard",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
+      "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
+    },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
