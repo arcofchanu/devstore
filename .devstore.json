@@ -4,11 +4,18 @@
   "featured": [
     "arkenSTONE",
     "kronos",
-    "GSA-Extractor",
-    "GSA-Dashboard"
+    "GSA-Dashboard",
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
   ],
-  "overrides": {}
+  "overrides": {
+    "parceltongueBOT": {
+      "title": "parceltongueBOT",
+      "description": "",
+      "demo": "",
+      "image": "https://ibb.co/84GsDr31"
+    }
+  }
 }
