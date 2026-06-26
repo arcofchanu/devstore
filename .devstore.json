@@ -3,9 +3,15 @@
   "theme": "default",
   "featured": [
     "arkenSTONE",
-    "GSA-Extractor",
-    "kronos"
+    "kronos",
+    "GSA-Extractor"
   ],
-  "hidden": [],
+  "hidden": [
+    "parceltongueBOT",
+    "ETRrssBOT",
+    "devstore",
+    "payloadPY",
+    "cert"
+  ],
   "overrides": {}
 }
