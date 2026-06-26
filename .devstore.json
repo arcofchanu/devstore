@@ -4,8 +4,8 @@
   "featured": [
     "arkenSTONE",
     "kronos",
-    "parceltongueBOT",
-    "GSA-Dashboard"
+    "GSA-Dashboard",
+    "parceltongueBOT"
   ],
   "hidden": [
     "Frame01",
@@ -17,6 +17,12 @@
     "cert"
   ],
   "overrides": {
+    "arkenSTONE": {
+      "title": "arkenSTONE",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/arkenSTONE/",
+      "image": "https://i.postimg.cc/5NvX9hgb/favicon.png"
+    },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
