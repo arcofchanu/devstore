@@ -2,9 +2,18 @@
   "bio": "not a ZENIN anymore ...",
   "theme": "default",
   "featured": [
-    "GSA-Extractor",
-    "arkenSTONE"
+    "arkenSTONE",
+    "GSA-Extractor"
   ],
-  "hidden": [],
+  "hidden": [
+    "kronos",
+    "De-Fi-paper-trading",
+    "vanityGen",
+    "parceltongueBOT",
+    "ETRrssBOT",
+    "devstore",
+    "payloadPY",
+    "cert"
+  ],
   "overrides": {}
 }
