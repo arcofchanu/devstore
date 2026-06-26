@@ -5,10 +5,9 @@
     "arkenSTONE",
     "kronos",
     "parceltongueBOT",
-    "De-Fi-paper-trading"
+    "GSA-Dashboard"
   ],
   "hidden": [
-    "GSA-Extractor",
     "Frame01",
     "vanityGen",
     "bulkSCANNER",
@@ -21,7 +20,8 @@
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
-      "demo": ""
+      "demo": "",
+      "image": ""
     }
   }
 }
