@@ -4,9 +4,11 @@
   "featured": [
     "arkenSTONE",
     "kronos",
-    "parceltongueBOT"
+    "parceltongueBOT",
+    "De-Fi-paper-trading"
   ],
   "hidden": [
+    "GSA-Extractor",
     "Frame01",
     "vanityGen",
     "bulkSCANNER",
