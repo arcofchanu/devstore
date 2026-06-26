@@ -2,10 +2,9 @@
   "bio": "not a ZENIN anymore ...",
   "theme": "default",
   "featured": [
-    "GSA-Extractor"
+    "GSA-Extractor",
+    "arkenSTONE"
   ],
-  "hidden": [
-    "kronos"
-  ],
+  "hidden": [],
   "overrides": {}
 }
