@@ -5,15 +5,6 @@
     "arkenSTONE",
     "GSA-Extractor"
   ],
-  "hidden": [
-    "kronos",
-    "De-Fi-paper-trading",
-    "vanityGen",
-    "parceltongueBOT",
-    "ETRrssBOT",
-    "devstore",
-    "payloadPY",
-    "cert"
-  ],
+  "hidden": [],
   "overrides": {}
 }
