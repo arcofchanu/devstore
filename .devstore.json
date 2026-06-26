@@ -3,7 +3,8 @@
   "theme": "default",
   "featured": [
     "arkenSTONE",
-    "GSA-Extractor"
+    "GSA-Extractor",
+    "kronos"
   ],
   "hidden": [],
   "overrides": {}
