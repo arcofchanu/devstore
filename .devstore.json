@@ -11,6 +11,12 @@
     "cert"
   ],
   "overrides": {
+    "kronos": {
+      "title": "kronos",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/kronos/",
+      "image": ""
+    },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
