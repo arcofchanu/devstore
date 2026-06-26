@@ -4,8 +4,7 @@
   "featured": [
     "arkenSTONE",
     "kronos",
-    "GSA-Dashboard",
-    "parceltongueBOT"
+    "GSA-Dashboard"
   ],
   "hidden": [
     "Frame01",
@@ -27,7 +26,7 @@
       "title": "kronos",
       "description": "",
       "demo": "https://arcofchanu.github.io/kronos/",
-      "image": ""
+      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
     },
     "GSA-Dashboard": {
       "title": "GSA-Dashboard",
