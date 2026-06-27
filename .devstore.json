@@ -7,7 +7,9 @@
     "GSA-Dashboard",
     "parceltongueBOT"
   ],
-  "hidden": [],
+  "hidden": [
+    "cert"
+  ],
   "overrides": {
     "arkenSTONE": {
       "title": "arkenSTONE",
@@ -27,17 +29,17 @@
       "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
       "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
     },
-    "Frame01": {
-      "title": "Frame01",
-      "description": "",
-      "demo": "https://frame01.studio",
-      "image": ""
-    },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
       "demo": "",
       "image": "https://i.postimg.cc/xCTmc68n/Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now.png"
+    },
+    "Frame01": {
+      "title": "Frame01",
+      "description": "",
+      "demo": "https://frame01.studio",
+      "image": ""
     },
     "devstore": {
       "title": "devstore",
