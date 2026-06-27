@@ -1,6 +1,56 @@
 {
-  "about": {
-    "nameplate": "",
-    "bio": "not a ZENIN anymore ..."
+  "bio": "not a ZENIN anymore ...",
+  "theme": "default",
+  "featured": [
+    "arkenSTONE",
+    "GSA-Dashboard"
+  ],
+  "hidden": [
+    "De-Fi-paper-trading",
+    "Frame01",
+    "vanityGen",
+    "bulkSCANNER",
+    "ETRrssBOT",
+    "devstore",
+    "payloadPY",
+    "cert"
+  ],
+  "overrides": {
+    "arkenSTONE": {
+      "title": "arkenSTONE",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/arkenSTONE/",
+      "image": ""
+    },
+    "kronos": {
+      "title": "kronos",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/kronos/",
+      "image": ""
+    },
+    "GSA-Dashboard": {
+      "title": "GSA-Dashboard",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
+      "image": ""
+    },
+    "Frame01": {
+      "title": "Frame01",
+      "description": "",
+      "demo": "https://frame01.studio",
+      "image": ""
+    },
+    "devstore": {
+      "title": "devstore",
+      "description": "My DevStore configuration",
+      "demo": "",
+      "image": ""
+    },
+    "cert": {
+      "title": "cert",
+      "description": "only for fun !!",
+      "demo": "https://cert-beta.vercel.app",
+      "image": ""
+    }
   }
 }
