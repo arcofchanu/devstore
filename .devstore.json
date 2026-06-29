@@ -5,7 +5,8 @@
     "arkenSTONE",
     "kronos",
     "GSA-Dashboard",
-    "parceltongueBOT"
+    "parceltongueBOT",
+    "svTSXte"
   ],
   "hidden": [
     "cert"
@@ -35,15 +36,21 @@
       "demo": "",
       "image": "https://i.postimg.cc/xCTmc68n/Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now.png"
     },
+    "devstore": {
+      "title": "devstore",
+      "description": "My DevStore configuration",
+      "demo": "",
+      "image": ""
+    },
     "Frame01": {
       "title": "Frame01",
       "description": "",
       "demo": "https://frame01.studio",
       "image": ""
     },
-    "devstore": {
-      "title": "devstore",
-      "description": "My DevStore configuration",
+    "svTSXte": {
+      "title": "svTSXte",
+      "description": "convert .tsx - .svelte and viceversa locally without ( I N T E R N E T)",
       "demo": "",
       "image": ""
     },
@@ -53,9 +60,5 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
-  },
-  "about": {
-    "nameplate": "",
-    "bio": "not a ZENIN anymore ..."
   }
 }
