@@ -2,9 +2,9 @@
   "bio": "not a ZENIN anymore ...",
   "theme": "default",
   "featured": [
-    "arkenSTONE",
     "GSA-Dashboard",
-    "parceltongueBOT"
+    "parceltongueBOT",
+    "kronos"
   ],
   "hidden": [
     "cert"
@@ -14,7 +14,7 @@
       "title": "arkenSTONE",
       "description": "",
       "demo": "https://arcofchanu.github.io/arkenSTONE/",
-      "image": "https://i.postimg.cc/cJ17nxkh/Copy-of-ascend-(1).png"
+      "image": ""
     },
     "GSA-Dashboard": {
       "title": "GSA-Dashboard",
@@ -38,7 +38,7 @@
       "title": "kronos",
       "description": "",
       "demo": "https://arcofchanu.github.io/kronos/",
-      "image": ""
+      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
     },
     "Frame01": {
       "title": "Frame01",
