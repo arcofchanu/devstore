@@ -53,22 +53,5 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
-  },
-  "folders": {
-    "Extension": [
-      "De-Fi-paper-trading",
-      "GSA-Extractor"
-    ],
-    "Discord BOT": [
-      "parceltongueBOT",
-      "ETRrssBOT"
-    ],
-    "Utility": [
-      "kronos"
-    ]
-  },
-  "about": {
-    "nameplate": "yo",
-    "bio": "not a ZENIN anymore ..."
   }
 }
