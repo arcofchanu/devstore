@@ -60,5 +60,13 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
+  },
+  "folders": {
+    "test": [
+      "kronos",
+      "svTSXte",
+      "arkenSTONE",
+      "parceltongueBOT"
+    ]
   }
 }
