@@ -66,5 +66,9 @@
     "Utility": [
       "kronos"
     ]
+  },
+  "about": {
+    "nameplate": "yo",
+    "bio": "not a ZENIN anymore ..."
   }
 }
