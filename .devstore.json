@@ -58,5 +58,12 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
+  },
+  "folders": {
+    "Fine works": [
+      "parceltongueBOT",
+      "vanityGen",
+      "GSA-Extractor"
+    ]
   }
 }
