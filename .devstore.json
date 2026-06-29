@@ -55,6 +55,16 @@
     }
   },
   "folders": {
-    "extension": []
+    "Extension": [
+      "De-Fi-paper-trading",
+      "GSA-Extractor"
+    ],
+    "Discord BOT": [
+      "parceltongueBOT",
+      "ETRrssBOT"
+    ],
+    "Utility": [
+      "kronos"
+    ]
   }
 }
