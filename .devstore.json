@@ -3,10 +3,8 @@
   "theme": "default",
   "featured": [
     "arkenSTONE",
-    "kronos",
     "GSA-Dashboard",
-    "parceltongueBOT",
-    "svTSXte"
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
@@ -36,6 +34,12 @@
       "demo": "",
       "image": "https://i.postimg.cc/xCTmc68n/Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now.png"
     },
+    "svTSXte": {
+      "title": "svTSXte",
+      "description": "convert .tsx - .svelte and viceversa locally without ( I N T E R N E T)",
+      "demo": "",
+      "image": ""
+    },
     "devstore": {
       "title": "devstore",
       "description": "My DevStore configuration",
@@ -48,22 +52,11 @@
       "demo": "https://frame01.studio",
       "image": ""
     },
-    "svTSXte": {
-      "title": "svTSXte",
-      "description": "convert .tsx - .svelte and viceversa locally without ( I N T E R N E T)",
-      "demo": "",
-      "image": ""
-    },
     "cert": {
       "title": "cert",
       "description": "only for fun !!",
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
-  },
-  "folders": {},
-  "about": {
-    "nameplate": "",
-    "bio": "not a ZENIN anymore ..."
   }
 }
