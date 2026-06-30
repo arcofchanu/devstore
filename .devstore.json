@@ -1,20 +1,20 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "default",
+  "theme": "dunes",
   "featured": [
+    "kronos",
     "GSA-Dashboard",
-    "parceltongueBOT",
-    "kronos"
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
   ],
   "overrides": {
-    "arkenSTONE": {
-      "title": "arkenSTONE",
+    "kronos": {
+      "title": "kronos",
       "description": "",
-      "demo": "https://arcofchanu.github.io/arkenSTONE/",
-      "image": ""
+      "demo": "https://arcofchanu.github.io/kronos/",
+      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
     },
     "GSA-Dashboard": {
       "title": "GSA-Dashboard",
@@ -34,11 +34,11 @@
       "demo": "",
       "image": ""
     },
-    "kronos": {
-      "title": "kronos",
+    "arkenSTONE": {
+      "title": "arkenSTONE",
       "description": "",
-      "demo": "https://arcofchanu.github.io/kronos/",
-      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
+      "demo": "https://arcofchanu.github.io/arkenSTONE/",
+      "image": ""
     },
     "Frame01": {
       "title": "Frame01",
