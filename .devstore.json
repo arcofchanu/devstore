@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "dune",
+  "theme": "default",
   "featured": [
     "arkenSTONE",
     "kronos",
@@ -21,12 +21,7 @@
       "title": "kronos",
       "description": "",
       "demo": "https://arcofchanu.github.io/kronos/",
-      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png",
-      "images": [
-        "https://i.postimg.cc/MTzGTLR4/Screenshot-2026-06-30-234510.png",
-        "https://i.postimg.cc/rmqpmHWH/Screenshot-2026-06-30-234523.png",
-        "https://i.postimg.cc/76qL6R7Q/Screenshot-2026-06-30-234536.png"
-      ]
+      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
     },
     "GSA-Dashboard": {
       "title": "GSA-Dashboard",
