@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "dune",
+  "theme": "default",
   "featured": [
     "arkenSTONE",
     "kronos",
@@ -59,9 +59,5 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
-  },
-  "about": {
-    "nameplate": "",
-    "bio": "not a ZENIN anymore ..."
   }
 }
