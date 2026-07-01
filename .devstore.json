@@ -21,8 +21,7 @@
       "title": "kronos",
       "description": "",
       "demo": "https://arcofchanu.github.io/kronos/",
-      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png",
-      "images": []
+      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
     },
     "GSA-Dashboard": {
       "title": "GSA-Dashboard",
@@ -60,9 +59,5 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
-  },
-  "about": {
-    "nameplate": "",
-    "bio": "not a ZENIN anymore ..."
   }
 }
