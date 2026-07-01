@@ -60,5 +60,9 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
+  },
+  "about": {
+    "nameplate": "",
+    "bio": "not a ZENIN anymore ..."
   }
 }
