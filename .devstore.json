@@ -63,5 +63,9 @@
       "demo": "https://cert-beta.vercel.app",
       "image": ""
     }
+  },
+  "about": {
+    "nameplate": "GAMER",
+    "bio": "not a ZENIN anymore ..."
   }
 }
