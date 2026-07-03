@@ -5,7 +5,10 @@
     "arkenSTONE",
     "kronos",
     "GSA-Dashboard",
-    "parceltongueBOT"
+    "parceltongueBOT",
+    "GSA-Extractor",
+    "De-Fi-paper-trading",
+    "Frame01"
   ],
   "hidden": [
     "cert"
