@@ -2,13 +2,11 @@
   "bio": "not a ZENIN anymore ...",
   "theme": "default",
   "featured": [
-    "arkenSTONE",
     "kronos",
     "GSA-Dashboard",
-    "parceltongueBOT",
     "GSA-Extractor",
-    "De-Fi-paper-trading",
-    "Frame01"
+    "Frame01",
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
@@ -32,6 +30,12 @@
       "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
       "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
     },
+    "Frame01": {
+      "title": "Frame01",
+      "description": "",
+      "demo": "https://frame01.studio",
+      "image": ""
+    },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
       "description": "",
@@ -42,12 +46,6 @@
       "title": "devstore",
       "description": "My DevStore configuration",
       "demo": "",
-      "image": ""
-    },
-    "Frame01": {
-      "title": "Frame01",
-      "description": "",
-      "demo": "https://frame01.studio",
       "image": ""
     },
     "svTSXte": {
