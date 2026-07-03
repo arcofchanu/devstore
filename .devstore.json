@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "default",
+  "theme": "dune",
   "featured": [
     "kronos",
     "GSA-Dashboard",
@@ -12,12 +12,6 @@
     "cert"
   ],
   "overrides": {
-    "arkenSTONE": {
-      "title": "arkenSTONE",
-      "description": "",
-      "demo": "https://arcofchanu.github.io/arkenSTONE/",
-      "image": ""
-    },
     "kronos": {
       "title": "kronos",
       "description": "",
@@ -46,6 +40,12 @@
       "title": "devstore",
       "description": "My DevStore configuration",
       "demo": "",
+      "image": ""
+    },
+    "arkenSTONE": {
+      "title": "arkenSTONE",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/arkenSTONE/",
       "image": ""
     },
     "svTSXte": {
