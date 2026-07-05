@@ -1,11 +1,8 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "babyBlush",
+  "theme": "dune",
   "featured": [
     "kronos",
-    "GSA-Dashboard",
-    "GSA-Extractor",
-    "Frame01",
     "parceltongueBOT"
   ],
   "hidden": [
