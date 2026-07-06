@@ -59,8 +59,10 @@
     }
   },
   "about": {
-    "nameplate": "GAMER",
-    "bio": "not a ZENIN anymore ..."
+    "nameplate": "GAMER • Red Teamer",
+    "bio": "not a ZENIN anymore ...",
+    "displayName": "",
+    "avatarUrl": ""
   },
   "uid": "dx_71f2e69a5be1"
 }
