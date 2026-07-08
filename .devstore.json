@@ -1,27 +1,32 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "iris",
+  "theme": "autumn",
   "featured": [
     "kronos",
     "GSA-Extractor",
-    "parceltongueBOT",
-    "DevDex"
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
   ],
   "overrides": {
-    "devstore": {
-      "title": "devstore",
-      "description": "My DevStore configuration",
-      "demo": "",
-      "image": ""
-    },
     "kronos": {
       "title": "kronos",
       "description": "",
       "demo": "https://arcofchanu.github.io/kronos/",
       "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
+    },
+    "parceltongueBOT": {
+      "title": "parceltongueBOT",
+      "description": "",
+      "demo": "",
+      "image": "https://i.postimg.cc/xCTmc68n/Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now.png"
+    },
+    "devstore": {
+      "title": "devstore",
+      "description": "My DevStore configuration",
+      "demo": "",
+      "image": ""
     },
     "arkenSTONE": {
       "title": "arkenSTONE",
@@ -40,12 +45,6 @@
       "description": "",
       "demo": "https://frame01.studio",
       "image": ""
-    },
-    "parceltongueBOT": {
-      "title": "parceltongueBOT",
-      "description": "",
-      "demo": "",
-      "image": "https://i.postimg.cc/xCTmc68n/Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now.png"
     },
     "svTSXte": {
       "title": "svTSXte",
