@@ -3,8 +3,7 @@
   "theme": "iris",
   "featured": [
     "kronos",
-    "parceltongueBOT",
-    "DevDex"
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
