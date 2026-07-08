@@ -3,7 +3,8 @@
   "theme": "autumn",
   "featured": [
     "kronos",
-    "parceltongueBOT"
+    "parceltongueBOT",
+    "DevDex"
   ],
   "hidden": [
     "cert"
@@ -13,12 +14,7 @@
       "title": "kronos",
       "description": "",
       "demo": "https://arcofchanu.github.io/kronos/",
-      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png",
-      "images": [
-        "https://i.postimg.cc/76qL6R7Q/Screenshot-2026-06-30-234536.png",
-        "https://i.postimg.cc/rmqpmHWH/Screenshot-2026-06-30-234523.png",
-        "https://i.postimg.cc/MTzGTLR4/Screenshot-2026-06-30-234510.png"
-      ]
+      "image": "https://i.postimg.cc/jjjNj8Cv/Copy-of-Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now-(2).png"
     },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
@@ -48,9 +44,7 @@
       "title": "Frame01",
       "description": "",
       "demo": "https://frame01.studio",
-      "image": "",
-      "images": [],
-      "video": "https://youtu.be/G7MLICEy2f8?si=HXrSJuXMh7rYi4M7"
+      "image": ""
     },
     "svTSXte": {
       "title": "svTSXte",
