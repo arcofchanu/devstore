@@ -3,8 +3,8 @@
   "theme": "autumn",
   "featured": [
     "kronos",
-    "GSA-Extractor",
-    "parceltongueBOT"
+    "parceltongueBOT",
+    "GSA-Dashboard"
   ],
   "hidden": [
     "cert"
