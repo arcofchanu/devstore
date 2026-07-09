@@ -69,5 +69,11 @@
     "bio": "not a ZENIN anymore ...",
     "displayName": "",
     "avatarUrl": ""
+  },
+  "folders": {
+    "extension": [
+      "GSA-Extractor",
+      "De-Fi-paper-trading"
+    ]
   }
 }
