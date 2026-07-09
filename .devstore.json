@@ -1,10 +1,10 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "terminal",
+  "theme": "autumn",
   "featured": [
     "kronos",
-    "parceltongueBOT",
-    "GSA-Dashboard"
+    "GSA-Dashboard",
+    "parceltongueBOT"
   ],
   "hidden": [
     "cert"
@@ -20,6 +20,12 @@
         "https://i.postimg.cc/MTzGTLR4/Screenshot-2026-06-30-234510.png",
         "https://i.postimg.cc/76qL6R7Q/Screenshot-2026-06-30-234536.png"
       ]
+    },
+    "GSA-Dashboard": {
+      "title": "GSA-Dashboard",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
+      "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
     },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
@@ -38,12 +44,6 @@
       "description": "",
       "demo": "https://arcofchanu.github.io/arkenSTONE/",
       "image": ""
-    },
-    "GSA-Dashboard": {
-      "title": "GSA-Dashboard",
-      "description": "",
-      "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
-      "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
     },
     "Frame01": {
       "title": "Frame01",
