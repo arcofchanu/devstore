@@ -76,5 +76,10 @@
       "GSA-Extractor",
       "De-Fi-paper-trading"
     ]
-  }
+  },
+  "showcase": [
+    "polyglot",
+    "on-fire",
+    "starstruck"
+  ]
 }
