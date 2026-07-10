@@ -3,8 +3,7 @@
   "theme": "autumn",
   "featured": [
     "kronos",
-    "GSA-Dashboard",
-    "parceltongueBOT"
+    "GSA-Dashboard"
   ],
   "hidden": [
     "svTSXte",
