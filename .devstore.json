@@ -74,7 +74,8 @@
   "folders": {
     "extension": [
       "GSA-Extractor",
-      "De-Fi-paper-trading"
+      "De-Fi-paper-trading",
+      "vanityGen"
     ]
   }
 }
