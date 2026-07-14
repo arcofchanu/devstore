@@ -44,7 +44,9 @@
       "title": "Frame01",
       "description": "",
       "demo": "https://frame01.studio",
-      "image": ""
+      "image": "",
+      "images": [],
+      "video": "https://youtu.be/G7MLICEy2f8?si=XOwPqZYth8seToer"
     },
     "parceltongueBOT": {
       "title": "parceltongueBOT",
