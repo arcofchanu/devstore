@@ -6,6 +6,7 @@
     "GSA-Dashboard"
   ],
   "hidden": [
+    "ETRrssBOT",
     "svTSXte",
     "payloadPY",
     "cert"
