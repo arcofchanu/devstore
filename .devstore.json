@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "iris",
+  "theme": "autumn",
   "featured": [
     "kronos",
     "GSA-Dashboard"
@@ -52,6 +52,12 @@
       "description": "",
       "demo": "",
       "image": "https://i.postimg.cc/xCTmc68n/Hey-just-a-little-reminder-not-everything-has-to-work-out-right-now.png"
+    },
+    "BagEnd": {
+      "title": "BagEnd",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/BagEnd/",
+      "image": ""
     },
     "svTSXte": {
       "title": "svTSXte",
