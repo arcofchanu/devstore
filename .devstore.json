@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "autumn",
+  "theme": "babyBlush",
   "featured": [
     "kronos",
     "GSA-Dashboard",
@@ -53,6 +53,18 @@
       "demo": "https://frame01.studio",
       "image": "",
       "images": []
+    },
+    "G0DM0D3": {
+      "title": "G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "demo": "",
+      "image": ""
+    },
+    "OBLITERATUS": {
+      "title": "OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "demo": "https://huggingface.co/spaces/pliny-the-prompter/",
+      "image": ""
     },
     "svTSXte": {
       "title": "svTSXte",
