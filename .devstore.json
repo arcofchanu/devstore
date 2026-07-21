@@ -89,6 +89,9 @@
     "extension": [
       "GSA-Extractor",
       "De-Fi-paper-trading"
+    ],
+    "utility": [
+      "kronos"
     ]
   }
 }
