@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "iris",
+  "theme": "babyBlush",
   "featured": [
     "kronos",
     "GSA-Dashboard",
@@ -52,6 +52,12 @@
       "demo": "https://frame01.studio",
       "image": "",
       "images": []
+    },
+    "bitchat": {
+      "title": "bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "demo": "",
+      "image": ""
     },
     "G0DM0D3": {
       "title": "G0DM0D3",
