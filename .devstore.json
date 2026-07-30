@@ -1,11 +1,11 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "iris",
+  "theme": "autumn",
   "featured": [
+    "DevDex",
     "kronos",
     "GSA-Dashboard",
-    "BagEnd",
-    "DevDex"
+    "BagEnd"
   ],
   "hidden": [
     "payloadPY",
@@ -53,6 +53,12 @@
       "demo": "https://frame01.studio",
       "image": "",
       "images": []
+    },
+    "dungeon": {
+      "title": "dungeon",
+      "description": "",
+      "demo": "https://jerryx.vercel.app",
+      "image": ""
     },
     "bitchat": {
       "title": "bitchat",
