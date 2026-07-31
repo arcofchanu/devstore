@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "iris",
+  "theme": "autumn",
   "featured": [
     "DevDex",
     "kronos",
@@ -58,6 +58,12 @@
       "title": "dungeon",
       "description": "",
       "demo": "https://jerryx.vercel.app",
+      "image": ""
+    },
+    "arcofchanu": {
+      "title": "arcofchanu",
+      "description": "✨ My GitHub profile README",
+      "demo": "",
       "image": ""
     },
     "bitchat": {
