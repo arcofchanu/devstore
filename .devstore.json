@@ -1,6 +1,6 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "autumn",
+  "theme": "iris",
   "featured": [
     "DevDex",
     "kronos",
@@ -53,6 +53,12 @@
       "demo": "https://frame01.studio",
       "image": "",
       "images": []
+    },
+    "Grand-Line-Editor": {
+      "title": "Grand-Line-Editor",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/Grand-Line-Editor/",
+      "image": ""
     },
     "dungeon": {
       "title": "dungeon",
