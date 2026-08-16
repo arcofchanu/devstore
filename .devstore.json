@@ -1,12 +1,12 @@
 {
   "bio": "not a ZENIN anymore ...",
-  "theme": "autumn",
+  "theme": "terminal",
   "featured": [
     "DevDex",
     "kronos",
     "GSA-Dashboard",
-    "BagEnd",
-    "turnstile"
+    "turnstile",
+    "BagEnd"
   ],
   "hidden": [
     "payloadPY",
@@ -29,6 +29,12 @@
       "description": "",
       "demo": "https://arcofchanu.github.io/GSA-Dashboard/",
       "image": "https://i.postimg.cc/GpZ0p5qw/Chat-GPT-Image-Jun-27-2026-02-23-27-AM.png"
+    },
+    "turnstile": {
+      "title": "turnstile",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/turnstile/",
+      "image": ""
     },
     "BagEnd": {
       "title": "BagEnd",
@@ -54,12 +60,6 @@
       "demo": "https://frame01.studio",
       "image": "",
       "images": []
-    },
-    "turnstile": {
-      "title": "turnstile",
-      "description": "",
-      "demo": "https://arcofchanu.github.io/turnstile/",
-      "image": ""
     },
     "Grand-Line-Editor": {
       "title": "Grand-Line-Editor",
