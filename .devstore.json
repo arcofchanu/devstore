@@ -5,7 +5,8 @@
     "DevDex",
     "kronos",
     "GSA-Dashboard",
-    "BagEnd"
+    "BagEnd",
+    "turnstile"
   ],
   "hidden": [
     "payloadPY",
@@ -54,10 +55,10 @@
       "image": "",
       "images": []
     },
-    "arcofchanu": {
-      "title": "arcofchanu",
-      "description": "✨ My GitHub profile README",
-      "demo": "",
+    "turnstile": {
+      "title": "turnstile",
+      "description": "",
+      "demo": "https://arcofchanu.github.io/turnstile/",
       "image": ""
     },
     "Grand-Line-Editor": {
@@ -66,10 +67,10 @@
       "demo": "https://arcofchanu.github.io/Grand-Line-Editor/",
       "image": ""
     },
-    "dungeon": {
-      "title": "dungeon",
-      "description": "",
-      "demo": "https://jerryx.vercel.app",
+    "arcofchanu": {
+      "title": "arcofchanu",
+      "description": "✨ My GitHub profile README",
+      "demo": "",
       "image": ""
     },
     "bitchat": {
